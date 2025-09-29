@@ -1,0 +1,3262 @@
+{
+  "pageProps": {
+    "dehydratedState": {
+      "mutations": [],
+      "queries": [
+        {
+          "state": {
+            "data": {
+              "data": [
+                {
+                  "id": 1,
+                  "title": "Pdp",
+                  "slug": "pdp",
+                  "createdAt": "2024-01-06T12:13:56.157Z",
+                  "updatedAt": "2025-07-09T07:46:33.681Z",
+                  "publishedAt": "2024-01-06T12:13:58.149Z",
+                  "seo": {
+                    "id": 110,
+                    "name": "Product",
+                    "content": "Product Content",
+                    "tagType": null,
+                    "script": null,
+                    "title": "Products Page",
+                    "description": "This is Pdp Page",
+                    "keywords": null,
+                    "pagetype": "Pdp"
+                  },
+                  "components": [
+                    {
+                      "id": 1368,
+                      "__component": "widget.component-spacer",
+                      "componentName": "web component spacer",
+                      "backgroundColour": null,
+                      "height": "64px",
+                      "display": [
+                        "Web"
+                      ]
+                    },
+                    {
+                      "id": 1369,
+                      "__component": "widget.component-spacer",
+                      "componentName": "mobile component spacer",
+                      "backgroundColour": null,
+                      "height": "32px",
+                      "display": [
+                        "Msite",
+                        "Apps (Android + iOS)"
+                      ]
+                    },
+                    {
+                      "id": 33,
+                      "__component": "slots.unbxd-carousel",
+                      "componentName": "Similar Products",
+                      "backgroundColour": null,
+                      "backgroundSpacing": null,
+                      "module": null,
+                      "productSku": null,
+                      "display": [
+                        "All"
+                      ],
+                      "title": "<div>\n<span style=\"color: #A3A3A3\">Similar </span>\n <span style=\"color: #171717\">Products</span>\n</div>",
+                      "ctaLabel": null,
+                      "ctaLabelUrl": null,
+                      "noOfProductsShown": 5,
+                      "pageType": "product",
+                      "widgetId": "widget1",
+                      "LeftWebArrowImage": null,
+                      "RightWebArrowImage": null,
+                      "LeftMobileArrowImage": null,
+                      "RightMobileArrowImage": null,
+                      "isArrowsShown": null,
+                      "personalizedId": null
+                    },
+                    {
+                      "id": 1366,
+                      "__component": "widget.component-spacer",
+                      "componentName": "mobile coponent spacer",
+                      "backgroundColour": null,
+                      "height": "32px",
+                      "display": [
+                        "Msite",
+                        "Apps (Android + iOS)"
+                      ]
+                    },
+                    {
+                      "id": 1367,
+                      "__component": "widget.component-spacer",
+                      "componentName": "web component spacer",
+                      "backgroundColour": null,
+                      "height": "64px",
+                      "display": [
+                        "Web"
+                      ]
+                    },
+                    {
+                      "id": 55,
+                      "__component": "slots.unbxd-carousel",
+                      "componentName": "Recommended for You!",
+                      "backgroundColour": null,
+                      "backgroundSpacing": null,
+                      "module": null,
+                      "productSku": null,
+                      "display": [
+                        "All"
+                      ],
+                      "title": "<div>\n<span style=\"color: #A3A3A3\">Recommended </span>\n <span style=\"color: #171717\"> for You!</span>\n</div>",
+                      "ctaLabel": null,
+                      "ctaLabelUrl": null,
+                      "noOfProductsShown": 5,
+                      "pageType": "product",
+                      "widgetId": "widget2",
+                      "LeftWebArrowImage": null,
+                      "RightWebArrowImage": null,
+                      "LeftMobileArrowImage": null,
+                      "RightMobileArrowImage": null,
+                      "isArrowsShown": null,
+                      "personalizedId": null
+                    },
+                    {
+                      "id": 4,
+                      "__component": "widget.more-card",
+                      "componentName": "MORE FROM UCB",
+                      "title": null,
+                      "ctaLabel": null,
+                      "ctaLabelUrl": null,
+                      "productsData": null,
+                      "display": [
+                        "All"
+                      ]
+                    },
+                    {
+                      "id": 5,
+                      "__component": "widget.more-card",
+                      "componentName": "MORE SHIRTS FROM UNITED COLORS OF BENETTON",
+                      "title": null,
+                      "ctaLabel": null,
+                      "ctaLabelUrl": null,
+                      "productsData": null,
+                      "display": [
+                        "All"
+                      ]
+                    },
+                    {
+                      "id": 6,
+                      "__component": "widget.more-card",
+                      "componentName": "MORE SHIRTS FROM UCB",
+                      "title": null,
+                      "ctaLabel": null,
+                      "ctaLabelUrl": null,
+                      "productsData": null,
+                      "display": [
+                        "All"
+                      ]
+                    },
+                    {
+                      "id": 2,
+                      "__component": "widget.more-info-card",
+                      "componentName": "MORE INFORMATION",
+                      "title": null,
+                      "ProductCode": null,
+                      "CountryofOrigin": null,
+                      "ManufacturerDetails": null,
+                      "Contact": null,
+                      "Email": null,
+                      "display": [
+                        "All"
+                      ],
+                      "productsData": null
+                    },
+                    {
+                      "id": 7,
+                      "__component": "widget.more-card",
+                      "componentName": null,
+                      "title": null,
+                      "ctaLabel": null,
+                      "ctaLabelUrl": null,
+                      "productsData": null,
+                      "display": null
+                    },
+                    {
+                      "id": 1,
+                      "__component": "slots.shop-the-name",
+                      "componentName": "Shop The Name",
+                      "backgroundColour": null,
+                      "backgroundSpacing": null,
+                      "module": null,
+                      "productSku": null,
+                      "display": [
+                        "All"
+                      ],
+                      "title": "You Might be Interested In",
+                      "ctaLabel": null,
+                      "ctaLabelUrl": null,
+                      "noOfProductsShown": 3,
+                      "pageType": "product",
+                      "widgetId": "widget2",
+                      "LeftMobileArrowImage": null,
+                      "RightMobileArrowImage": null,
+                      "LeftWebArrowImage": null,
+                      "RightWebArrowImage": null,
+                      "isArrowsShown": null
+                    }
+                  ]
+                }
+              ],
+              "meta": {},
+              "statusCode": 200
+            },
+            "dataUpdateCount": 1,
+            "dataUpdatedAt": 1759040253230,
+            "error": null,
+            "errorUpdateCount": 0,
+            "errorUpdatedAt": 0,
+            "fetchFailureCount": 0,
+            "fetchFailureReason": null,
+            "fetchMeta": null,
+            "isInvalidated": false,
+            "status": "success",
+            "fetchStatus": "idle"
+          },
+          "queryKey": [
+            "cmsPdpPage"
+          ],
+          "queryHash": "[\"cmsPdpPage\"]"
+        },
+        {
+          "state": {
+            "data": {
+              "data": {
+                "products": {
+                  "total_count": 1,
+                  "items": [
+                    {
+                      "name": "Upvibe Synthetic Lace Up Men's Sports Shoes",
+                      "id": null,
+                      "type_id": "configurable",
+                      "is_free_gift_available": 0,
+                      "free_items_offers": null,
+                      "brand_name": null,
+                      "brand_info": "ADIDAS",
+                      "categories": [
+                        {
+                          "url_key": "",
+                          "level": null,
+                          "name": "Sports Shoes",
+                          "uid": "1252",
+                          "id": "A1072"
+                        }
+                      ],
+                      "additional_images": [
+                        {
+                          "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                        },
+                        {
+                          "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H"
+                        },
+                        {
+                          "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt2.jpg_2000Wx3000H"
+                        },
+                        {
+                          "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt3.jpg_2000Wx3000H"
+                        },
+                        {
+                          "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt4.jpg_2000Wx3000H"
+                        }
+                      ],
+                      "media_gallery": null,
+                      "sku": "FMADIU5066",
+                      "stock_status": "OUT_OF_STOCK",
+                      "variants_status": [
+                        {
+                          "sku": "FMADIU5066001",
+                          "status": "OUT_OF_STOCK"
+                        },
+                        {
+                          "sku": "FMADIU5066002",
+                          "status": "OUT_OF_STOCK"
+                        },
+                        {
+                          "sku": "FMADIU5066003",
+                          "status": "OUT_OF_STOCK"
+                        },
+                        {
+                          "sku": "FMADIU5066004",
+                          "status": "OUT_OF_STOCK"
+                        },
+                        {
+                          "sku": "FMADIU5066005",
+                          "status": "OUT_OF_STOCK"
+                        }
+                      ],
+                      "short_description": null,
+                      "AvailablePromotions": [],
+                      "review_count": null,
+                      "rating_summary": null,
+                      "reviews": [],
+                      "formulation": null,
+                      "pro_type": "Sports Shoes",
+                      "is_featured_checkbox": 0,
+                      "gift_message_available": null,
+                      "is_express_deliverable_checkbox": false,
+                      "is_best_seller_checkbox": false,
+                      "__typename": "ConfigurableProduct",
+                      "image": null,
+                      "configurable_options": [
+                        {
+                          "id": null,
+                          "attribute_id_v2": 142,
+                          "label": "Size",
+                          "position": 0,
+                          "use_default": false,
+                          "attribute_code": "size",
+                          "values": [
+                            {
+                              "value_index": "FMADIU5066001",
+                              "label": "UK 7",
+                              "swatch_data": {
+                                "value": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H",
+                                "swatch_data_internal": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "value_index": "FMADIU5066002",
+                              "label": "UK 8",
+                              "swatch_data": {
+                                "value": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H",
+                                "swatch_data_internal": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "value_index": "FMADIU5066003",
+                              "label": "UK 9",
+                              "swatch_data": {
+                                "value": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H",
+                                "swatch_data_internal": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "value_index": "FMADIU5066004",
+                              "label": "UK 10",
+                              "swatch_data": {
+                                "value": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H",
+                                "swatch_data_internal": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "value_index": "FMADIU5066005",
+                              "label": "UK 11",
+                              "swatch_data": {
+                                "value": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H",
+                                "swatch_data_internal": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ],
+                          "product_id": null
+                        },
+                        {
+                          "id": null,
+                          "attribute_id_v2": 93,
+                          "label": "Color",
+                          "position": 0,
+                          "use_default": false,
+                          "attribute_code": "color",
+                          "values": [
+                            {
+                              "value_index": "FMADIU5066_GREY",
+                              "label": "Grey",
+                              "swatch_data": {
+                                "value": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H",
+                                "swatch_data_internal": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ],
+                          "product_id": null
+                        }
+                      ],
+                      "variants": [
+                        {
+                          "product": {
+                            "id": null,
+                            "color": "FMADIU5066_GREY",
+                            "size": "FMADIU5066001",
+                            "uid": null,
+                            "name": null,
+                            "brand_name": null,
+                            "brand_info": "ADIDAS",
+                            "additional_images": [
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt2.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt3.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt4.jpg_2000Wx3000H"
+                              }
+                            ],
+                            "media_gallery": null,
+                            "sku": "FMADIU5066001",
+                            "stock_status": "OUT_OF_STOCK",
+                            "stock_count": 0,
+                            "review_count": null,
+                            "rating_summary": null,
+                            "reviews": null,
+                            "AvailablePromotions": null,
+                            "pmr_price": 4599,
+                            "pmr_price_value": {
+                              "amount": {
+                                "value": 4599,
+                                "currency": "INR"
+                              },
+                              "discount": {
+                                "amount_off": null,
+                                "percent_off": null
+                              }
+                            },
+                            "price_range": {
+                              "minimum_price": {
+                                "regular_price": {
+                                  "value": null,
+                                  "currency": "INR"
+                                },
+                                "final_price": {
+                                  "value": 4599
+                                },
+                                "discount": {
+                                  "amount_off": null,
+                                  "percent_off": null
+                                }
+                              }
+                            },
+                            "formulation": null,
+                            "pro_type": null,
+                            "is_featured_checkbox": null,
+                            "gift_message_available": null,
+                            "is_best_seller_checkbox": null,
+                            "__typename": "simple",
+                            "image": {
+                              "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                            },
+                            "attribute_set_id": null,
+                            "weight": null
+                          }
+                        },
+                        {
+                          "product": {
+                            "id": null,
+                            "color": "FMADIU5066_GREY",
+                            "size": "FMADIU5066001",
+                            "uid": null,
+                            "name": null,
+                            "brand_name": null,
+                            "brand_info": "ADIDAS",
+                            "additional_images": [
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt2.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt3.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt4.jpg_2000Wx3000H"
+                              }
+                            ],
+                            "media_gallery": null,
+                            "sku": "FMADIU5066001",
+                            "stock_status": "OUT_OF_STOCK",
+                            "stock_count": 0,
+                            "review_count": null,
+                            "rating_summary": null,
+                            "reviews": null,
+                            "AvailablePromotions": null,
+                            "pmr_price": 4599,
+                            "pmr_price_value": {
+                              "amount": {
+                                "value": 4599,
+                                "currency": "INR"
+                              },
+                              "discount": {
+                                "amount_off": null,
+                                "percent_off": null
+                              }
+                            },
+                            "price_range": {
+                              "minimum_price": {
+                                "regular_price": {
+                                  "value": null,
+                                  "currency": "INR"
+                                },
+                                "final_price": {
+                                  "value": 4599
+                                },
+                                "discount": {
+                                  "amount_off": null,
+                                  "percent_off": null
+                                }
+                              }
+                            },
+                            "formulation": null,
+                            "pro_type": null,
+                            "is_featured_checkbox": null,
+                            "gift_message_available": null,
+                            "is_best_seller_checkbox": null,
+                            "__typename": "simple",
+                            "image": {
+                              "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                            },
+                            "attribute_set_id": null,
+                            "weight": null
+                          }
+                        },
+                        {
+                          "product": {
+                            "id": null,
+                            "color": "FMADIU5066_GREY",
+                            "size": "FMADIU5066002",
+                            "uid": null,
+                            "name": null,
+                            "brand_name": null,
+                            "brand_info": "ADIDAS",
+                            "additional_images": [
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt2.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt3.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt4.jpg_2000Wx3000H"
+                              }
+                            ],
+                            "media_gallery": null,
+                            "sku": "FMADIU5066002",
+                            "stock_status": "OUT_OF_STOCK",
+                            "stock_count": 0,
+                            "review_count": null,
+                            "rating_summary": null,
+                            "reviews": null,
+                            "AvailablePromotions": null,
+                            "pmr_price": 4599,
+                            "pmr_price_value": {
+                              "amount": {
+                                "value": 4599,
+                                "currency": "INR"
+                              },
+                              "discount": {
+                                "amount_off": null,
+                                "percent_off": null
+                              }
+                            },
+                            "price_range": {
+                              "minimum_price": {
+                                "regular_price": {
+                                  "value": null,
+                                  "currency": "INR"
+                                },
+                                "final_price": {
+                                  "value": 4599
+                                },
+                                "discount": {
+                                  "amount_off": null,
+                                  "percent_off": null
+                                }
+                              }
+                            },
+                            "formulation": null,
+                            "pro_type": null,
+                            "is_featured_checkbox": null,
+                            "gift_message_available": null,
+                            "is_best_seller_checkbox": null,
+                            "__typename": "simple",
+                            "image": {
+                              "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                            },
+                            "attribute_set_id": null,
+                            "weight": null
+                          }
+                        },
+                        {
+                          "product": {
+                            "id": null,
+                            "color": "FMADIU5066_GREY",
+                            "size": "FMADIU5066003",
+                            "uid": null,
+                            "name": null,
+                            "brand_name": null,
+                            "brand_info": "ADIDAS",
+                            "additional_images": [
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt2.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt3.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt4.jpg_2000Wx3000H"
+                              }
+                            ],
+                            "media_gallery": null,
+                            "sku": "FMADIU5066003",
+                            "stock_status": "OUT_OF_STOCK",
+                            "stock_count": 0,
+                            "review_count": null,
+                            "rating_summary": null,
+                            "reviews": null,
+                            "AvailablePromotions": null,
+                            "pmr_price": 4599,
+                            "pmr_price_value": {
+                              "amount": {
+                                "value": 4599,
+                                "currency": "INR"
+                              },
+                              "discount": {
+                                "amount_off": null,
+                                "percent_off": null
+                              }
+                            },
+                            "price_range": {
+                              "minimum_price": {
+                                "regular_price": {
+                                  "value": null,
+                                  "currency": "INR"
+                                },
+                                "final_price": {
+                                  "value": 4599
+                                },
+                                "discount": {
+                                  "amount_off": null,
+                                  "percent_off": null
+                                }
+                              }
+                            },
+                            "formulation": null,
+                            "pro_type": null,
+                            "is_featured_checkbox": null,
+                            "gift_message_available": null,
+                            "is_best_seller_checkbox": null,
+                            "__typename": "simple",
+                            "image": {
+                              "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                            },
+                            "attribute_set_id": null,
+                            "weight": null
+                          }
+                        },
+                        {
+                          "product": {
+                            "id": null,
+                            "color": "FMADIU5066_GREY",
+                            "size": "FMADIU5066004",
+                            "uid": null,
+                            "name": null,
+                            "brand_name": null,
+                            "brand_info": "ADIDAS",
+                            "additional_images": [
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt2.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt3.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt4.jpg_2000Wx3000H"
+                              }
+                            ],
+                            "media_gallery": null,
+                            "sku": "FMADIU5066004",
+                            "stock_status": "OUT_OF_STOCK",
+                            "stock_count": 0,
+                            "review_count": null,
+                            "rating_summary": null,
+                            "reviews": null,
+                            "AvailablePromotions": null,
+                            "pmr_price": 4599,
+                            "pmr_price_value": {
+                              "amount": {
+                                "value": 4599,
+                                "currency": "INR"
+                              },
+                              "discount": {
+                                "amount_off": null,
+                                "percent_off": null
+                              }
+                            },
+                            "price_range": {
+                              "minimum_price": {
+                                "regular_price": {
+                                  "value": null,
+                                  "currency": "INR"
+                                },
+                                "final_price": {
+                                  "value": 4599
+                                },
+                                "discount": {
+                                  "amount_off": null,
+                                  "percent_off": null
+                                }
+                              }
+                            },
+                            "formulation": null,
+                            "pro_type": null,
+                            "is_featured_checkbox": null,
+                            "gift_message_available": null,
+                            "is_best_seller_checkbox": null,
+                            "__typename": "simple",
+                            "image": {
+                              "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                            },
+                            "attribute_set_id": null,
+                            "weight": null
+                          }
+                        },
+                        {
+                          "product": {
+                            "id": null,
+                            "color": "FMADIU5066_GREY",
+                            "size": "FMADIU5066005",
+                            "uid": null,
+                            "name": null,
+                            "brand_name": null,
+                            "brand_info": "ADIDAS",
+                            "additional_images": [
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt2.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt3.jpg_2000Wx3000H"
+                              },
+                              {
+                                "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt4.jpg_2000Wx3000H"
+                              }
+                            ],
+                            "media_gallery": null,
+                            "sku": "FMADIU5066005",
+                            "stock_status": "OUT_OF_STOCK",
+                            "stock_count": 0,
+                            "review_count": null,
+                            "rating_summary": null,
+                            "reviews": null,
+                            "AvailablePromotions": null,
+                            "pmr_price": 4599,
+                            "pmr_price_value": {
+                              "amount": {
+                                "value": 4599,
+                                "currency": "INR"
+                              },
+                              "discount": {
+                                "amount_off": null,
+                                "percent_off": null
+                              }
+                            },
+                            "price_range": {
+                              "minimum_price": {
+                                "regular_price": {
+                                  "value": null,
+                                  "currency": "INR"
+                                },
+                                "final_price": {
+                                  "value": 4599
+                                },
+                                "discount": {
+                                  "amount_off": null,
+                                  "percent_off": null
+                                }
+                              }
+                            },
+                            "formulation": null,
+                            "pro_type": null,
+                            "is_featured_checkbox": null,
+                            "gift_message_available": null,
+                            "is_best_seller_checkbox": null,
+                            "__typename": "simple",
+                            "image": {
+                              "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                            },
+                            "attribute_set_id": null,
+                            "weight": null
+                          }
+                        }
+                      ],
+                      "pmr_price": null,
+                      "pmr_price_value": {
+                        "amount": {
+                          "value": 4599,
+                          "currency": "INR"
+                        },
+                        "discount": {
+                          "amount_off": null,
+                          "percent_off": null
+                        }
+                      },
+                      "price_range": {
+                        "minimum_price": {
+                          "regular_price": {
+                            "value": null,
+                            "currency": "INR"
+                          },
+                          "final_price": {
+                            "value": 4599
+                          },
+                          "discount": {
+                            "amount_off": null,
+                            "percent_off": null
+                          }
+                        }
+                      },
+                      "return_exchange_policy": "10 Days Easy Returns And Exchange",
+                      "return_period": "14",
+                      "productDetails": {
+                        "classifications": [
+                          {
+                            "code": "Material",
+                            "features": [
+                              {
+                                "featureValues": [
+                                  {
+                                    "value": "Synthetic"
+                                  }
+                                ],
+                                "name": "Material"
+                              }
+                            ]
+                          },
+                          {
+                            "code": "Pattern",
+                            "features": [
+                              {
+                                "featureValues": [
+                                  {
+                                    "value": "Solid"
+                                  }
+                                ],
+                                "name": "Pattern"
+                              }
+                            ]
+                          },
+                          {
+                            "code": "Toe Shape",
+                            "features": [
+                              {
+                                "featureValues": [
+                                  {
+                                    "value": "Round Toe"
+                                  }
+                                ],
+                                "name": "Toe Shape"
+                              }
+                            ]
+                          },
+                          {
+                            "code": "Pack Of",
+                            "features": [
+                              {
+                                "featureValues": [
+                                  {
+                                    "value": "1"
+                                  }
+                                ],
+                                "name": "Pack Of"
+                              }
+                            ]
+                          },
+                          {
+                            "code": "Gender",
+                            "features": [
+                              {
+                                "featureValues": [
+                                  {
+                                    "value": "Men"
+                                  }
+                                ],
+                                "name": "Gender"
+                              }
+                            ]
+                          },
+                          {
+                            "code": "Occasion",
+                            "features": [
+                              {
+                                "featureValues": [
+                                  {
+                                    "value": "Athleisure"
+                                  }
+                                ],
+                                "name": "Occasion"
+                              }
+                            ]
+                          },
+                          {
+                            "code": "Sole Material",
+                            "features": [
+                              {
+                                "featureValues": [
+                                  {
+                                    "value": "EVA"
+                                  }
+                                ],
+                                "name": "Sole Material"
+                              }
+                            ]
+                          },
+                          {
+                            "code": "Heel Height",
+                            "features": [
+                              {
+                                "featureValues": [
+                                  {
+                                    "value": "1.5 Inches"
+                                  }
+                                ],
+                                "name": "Heel Height"
+                              }
+                            ]
+                          },
+                          {
+                            "code": "Country of Origin",
+                            "features": [
+                              {
+                                "featureValues": [
+                                  {
+                                    "value": "India"
+                                  }
+                                ],
+                                "name": "Country of Origin"
+                              }
+                            ]
+                          },
+                          {
+                            "code": "Package Contents",
+                            "features": [
+                              {
+                                "featureValues": [
+                                  {
+                                    "value": "A Pair Of Sports Shoes"
+                                  }
+                                ],
+                                "name": "Package Contents"
+                              }
+                            ]
+                          },
+                          {
+                            "code": "Product Type",
+                            "features": [
+                              {
+                                "featureValues": [
+                                  {
+                                    "value": "Sports Shoes"
+                                  }
+                                ],
+                                "name": "Product Type"
+                              }
+                            ]
+                          },
+                          {
+                            "code": "Fastening Type",
+                            "features": [
+                              {
+                                "featureValues": [
+                                  {
+                                    "value": "Slip-On"
+                                  }
+                                ],
+                                "name": "Fastening Type"
+                              }
+                            ]
+                          }
+                        ],
+                        "aboutBrand": "Adidas is a globally renowned sports and lifestyle brand, designing and manufacturing footwear, apparel, and accessories.",
+                        "description": "It is a lifestyle tooling which leaves a classic impression of the wearer. Its raised wall protects the feet while walking & its anti-skid resistance provides a better grip to the ground & helps you to walk firmly",
+                        "styleNote": null,
+                        "ingredients": null,
+                        "how_to_use": null,
+                        "importerDetails": null,
+                        "careInstructions": null,
+                        "manufacturerDetails": "Adidas India Marketing Private Ltd. Office no.6, 2nd Floor, Sector-B, Pocket-7, Plot no-11, Vasant Kunj, New Delhi-110070"
+                      },
+                      "sizeDetails": {
+                        "sizeGuide": null,
+                        "sizeChart": [
+                          {
+                            "key": "sizeVariantCode",
+                            "value": [
+                              "FMADIU5066001",
+                              "FMADIU5066002",
+                              "FMADIU5066003",
+                              "FMADIU5066004",
+                              "FMADIU5066005"
+                            ]
+                          },
+                          {
+                            "key": "Size",
+                            "value": [
+                              "UK 7",
+                              "UK 8",
+                              "UK 9",
+                              "UK 10",
+                              "UK 11"
+                            ]
+                          },
+                          {
+                            "key": "Brand Size",
+                            "value": [
+                              "8",
+                              "9",
+                              "10",
+                              "11",
+                              "12"
+                            ]
+                          },
+                          {
+                            "key": "UK Size",
+                            "value": [
+                              "8",
+                              "9",
+                              "10",
+                              "11",
+                              "12"
+                            ]
+                          },
+                          {
+                            "key": "US Size",
+                            "value": [
+                              "8.5",
+                              "9.5",
+                              "10.5",
+                              "11.5",
+                              "12.5"
+                            ]
+                          },
+                          {
+                            "key": "Euro Size",
+                            "value": [
+                              "42.00",
+                              "43.33",
+                              "44.67",
+                              "46.00",
+                              "47.33"
+                            ]
+                          },
+                          {
+                            "key": "To Fit Foot Length (cm)",
+                            "value": [
+                              "26.5",
+                              "27.5",
+                              "28.5",
+                              "29.5",
+                              "30.5"
+                            ]
+                          }
+                        ],
+                        "howToMeasure": "<div><img src=\"https://s3.ap-south-1.amazonaws.com/images-magento.uat.sscom/Footwear.jpg\" border=\"0\" /></div>"
+                      },
+                      "bestSeller": false,
+                      "newArrival": false,
+                      "exclusive": false,
+                      "onlineExclusive": false,
+                      "selectedSku": "FMADIU5066_GREY",
+                      "is_eGift": false,
+                      "is_gift_product": false,
+                      "is_fcc_product": false,
+                      "review_enabled": null,
+                      "aplus_html_content": null,
+                      "product_id": "436370",
+                      "base_product": "FMADIU5066",
+                      "importer_details": null,
+                      "packer_details": null,
+                      "product_color": null,
+                      "limited": false
+                    }
+                  ],
+                  "aggregations": null,
+                  "page_info": {
+                    "current_page": 1,
+                    "page_size": 0,
+                    "total_pages": 1
+                  }
+                }
+              },
+              "statusCode": 200
+            },
+            "dataUpdateCount": 1,
+            "dataUpdatedAt": 1759040253294,
+            "error": null,
+            "errorUpdateCount": 0,
+            "errorUpdatedAt": 0,
+            "fetchFailureCount": 0,
+            "fetchFailureReason": null,
+            "fetchMeta": null,
+            "isInvalidated": false,
+            "status": "success",
+            "fetchStatus": "idle"
+          },
+          "queryKey": [
+            "getProductInfo",
+            {
+              "sku": "FMADIU5066",
+              "token": ""
+            }
+          ],
+          "queryHash": "[\"getProductInfo\",{\"sku\":\"FMADIU5066\",\"token\":\"\"}]"
+        },
+        {
+          "state": {
+            "data": {
+              "categories": [
+                {
+                  "l1Code": "1042",
+                  "l1Name": "Men",
+                  "l2Code": "1051",
+                  "l2Name": "Footwear",
+                  "l3Code": "1252",
+                  "l3Name": "Sports Shoes",
+                  "l4Code": "",
+                  "l4Name": ""
+                }
+              ],
+              "tokenDetails": {
+                "accessToken": "",
+                "isTokenRefreshed": false
+              },
+              "statusCode": 200
+            },
+            "dataUpdateCount": 1,
+            "dataUpdatedAt": 1759040253228,
+            "error": null,
+            "errorUpdateCount": 0,
+            "errorUpdatedAt": 0,
+            "fetchFailureCount": 0,
+            "fetchFailureReason": null,
+            "fetchMeta": null,
+            "isInvalidated": false,
+            "status": "success",
+            "fetchStatus": "idle"
+          },
+          "queryKey": [
+            "getBreadCums"
+          ],
+          "queryHash": "[\"getBreadCums\"]"
+        },
+        {
+          "state": {
+            "data": {
+              "data": {
+                "id": 1,
+                "title": "Web Header",
+                "slug": "web-header",
+                "pageName": null,
+                "description": null,
+                "createdAt": "2024-01-05T12:56:03.317Z",
+                "updatedAt": "2025-07-23T15:27:09.165Z",
+                "publishedAt": "2024-01-05T13:01:12.458Z",
+                "isPageUnderMaintanence": null,
+                "webHeaderTop": {
+                  "id": 3,
+                  "backgroundColour": null,
+                  "backgroundSpacing": null,
+                  "items": [
+                    {
+                      "id": 7,
+                      "imageName": "first citizen club",
+                      "componentName": null,
+                      "iconUrl": null,
+                      "ctaLabel": "First Citizen Club",
+                      "ctaLabelUrl": "/account/firstcitizen",
+                      "ctaLabelColour": "#ffffff"
+                    },
+                    {
+                      "id": 8,
+                      "imageName": "Help & Support Section",
+                      "componentName": null,
+                      "iconUrl": null,
+                      "ctaLabel": "Help & Support",
+                      "ctaLabelUrl": "/miscs/help",
+                      "ctaLabelColour": "#ffffff"
+                    },
+                    {
+                      "id": 9,
+                      "imageName": "App Download Section",
+                      "componentName": null,
+                      "iconUrl": null,
+                      "ctaLabel": "App Download",
+                      "ctaLabelUrl": "https://play.google.com/store/apps/details?id=shoppersstop.shoppersstop&hl=en",
+                      "ctaLabelColour": "#ffffff"
+                    }
+                  ]
+                },
+                "threeLevelItems": [
+                  {
+                    "id": 1,
+                    "title": "bargains",
+                    "titlePath": "/bargain",
+                    "items": [
+                      {
+                        "id": 1,
+                        "title": "Women",
+                        "titlePath": "/search/result?q=*&filter=categoryPath1_uFilter%253A%2522Women%2522",
+                        "subItems": [
+                          {
+                            "id": 1,
+                            "title": "Westernwear - Upto 70% Off",
+                            "titlePath": "/women-westernwear/c-1460"
+                          },
+                          {
+                            "id": 2,
+                            "title": "Ethnicwear - Upto 80% Off",
+                            "titlePath": "/women-indian-fusion-wear/c-1462"
+                          },
+                          {
+                            "id": 103,
+                            "title": "Footwear - Upto 50% Off",
+                            "titlePath": "/women-footwear/c-1475"
+                          },
+                          {
+                            "id": 104,
+                            "title": "Dresses - Upto 70% Off",
+                            "titlePath": "/women-westernwear-dresses/c-1506"
+                          },
+                          {
+                            "id": 105,
+                            "title": "Watches - Upto 50% Off",
+                            "titlePath": "/women-watches/c-1488"
+                          },
+                          {
+                            "id": 106,
+                            "title": "Handbags - Upto 50% Off",
+                            "titlePath": "/women-bags-wallets-handbags/c-1766"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 2,
+                        "title": "Men",
+                        "titlePath": null,
+                        "subItems": [
+                          {
+                            "id": 3,
+                            "title": "T-Shirt - Upto 50% Off",
+                            "titlePath": "/men-casual-wear-t-shirts/c-1076"
+                          },
+                          {
+                            "id": 107,
+                            "title": "Shirts - Upto 60% Off",
+                            "titlePath": "/men-casual-wear-shirts/c-1080"
+                          },
+                          {
+                            "id": 108,
+                            "title": "Jeans - Upto 60% Off",
+                            "titlePath": "/men-casual-wear-jeans/c-1087"
+                          },
+                          {
+                            "id": 109,
+                            "title": "Footwear - Upto 80% Off",
+                            "titlePath": "/men-footwear/c-1051"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 25,
+                        "title": "Kids",
+                        "titlePath": null,
+                        "subItems": [
+                          {
+                            "id": 110,
+                            "title": "Dresses - Upto 60% Off",
+                            "titlePath": "/kids-girls-dresses-gowns/c-1075"
+                          },
+                          {
+                            "id": 111,
+                            "title": "Kids Ethnicwear - Upto 50% Off",
+                            "titlePath": "/search/result?q=*&filter=categoryPath1_uFilter%253A%2522Kids%2522%2523categoryPath3_uFilter%253A%2522Ethnic%2520Wear%2522"
+                          },
+                          {
+                            "id": 112,
+                            "title": "Boys Bottomwear - Upto 50% Off",
+                            "titlePath": "/search/result?q=*&filter=categoryPath1_uFilter%253A%2522Kids%2522%2523categoryPath2_uFilter%253A%2522Boys%2522%2523categoryPath3_uFilter%253A%2522Jeans%252CShorts%252CTrack%2520Pants%2520%2526%2520Pyjamas%2522"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 26,
+                        "title": "Beauty",
+                        "titlePath": null,
+                        "subItems": [
+                          {
+                            "id": 113,
+                            "title": "Skincare - Upto 50% Off",
+                            "titlePath": "/beauty-skin/c-2067"
+                          },
+                          {
+                            "id": 114,
+                            "title": "Womens Fragrance - Upto 40% Off",
+                            "titlePath": "/beauty-fragrance-women/c-2111"
+                          },
+                          {
+                            "id": 115,
+                            "title": "Men Fragrances - Upto 50% Off",
+                            "titlePath": "/beauty-fragrance-men/c-2112"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 27,
+                        "title": "Home Offer",
+                        "titlePath": null,
+                        "subItems": [
+                          {
+                            "id": 116,
+                            "title": "Appliances - Upto 20% Off",
+                            "titlePath": "/home-home-kitchen-appliances/c-1451"
+                          },
+                          {
+                            "id": 117,
+                            "title": "Bath - Upto 50% Off",
+                            "titlePath": "/home-bath-laundry/c-1419"
+                          },
+                          {
+                            "id": 118,
+                            "title": "Bed - Upto 50% Off",
+                            "titlePath": "/home-bedding/c-1117"
+                          },
+                          {
+                            "id": 119,
+                            "title": "Living - Upto 60% Off",
+                            "titlePath": "/home-living/c-1120"
+                          },
+                          {
+                            "id": 120,
+                            "title": "Kitchen - Upto 40% Off",
+                            "titlePath": "/home-kitchen/c-1372"
+                          },
+                          {
+                            "id": 121,
+                            "title": "Storage - Upto 60% Off",
+                            "titlePath": "/home-kitchen-storage-solution/c-1398"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 28,
+                        "title": "All Offer Products",
+                        "titlePath": null,
+                        "subItems": [
+                          {
+                            "id": 122,
+                            "title": "See All Offer Products",
+                            "titlePath": "/search/result?q=*"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": 2,
+                    "title": "Watches",
+                    "titlePath": null,
+                    "items": [
+                      {
+                        "id": 7,
+                        "title": "Mens Watches",
+                        "titlePath": "/men-watches/c-1052",
+                        "subItems": [
+                          {
+                            "id": 225,
+                            "title": "All Watches",
+                            "titlePath": "/men-watches/c-1052"
+                          },
+                          {
+                            "id": 14,
+                            "title": "Smart Watches & Fitness Bands",
+                            "titlePath": "/men-watches-smart-watches-fitness-bands/c-1287"
+                          },
+                          {
+                            "id": 16,
+                            "title": "Analog",
+                            "titlePath": "/men-watches-analog-watches/c-1290"
+                          },
+                          {
+                            "id": 18,
+                            "title": "Digital",
+                            "titlePath": "/men-watches-digital-watches/c-1295"
+                          },
+                          {
+                            "id": 19,
+                            "title": "Chronograph",
+                            "titlePath": "/men-watches-chronograph-watches/c-1293"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 8,
+                        "title": "Womens Watches",
+                        "titlePath": "/women-watches/c-1488",
+                        "subItems": [
+                          {
+                            "id": 20,
+                            "title": "All Watches",
+                            "titlePath": "/women-watches/c-1488"
+                          },
+                          {
+                            "id": 21,
+                            "title": "Smart Watches & Fitness Bands",
+                            "titlePath": "/women-watches-smart-watches-fitness-bands/c-1826"
+                          },
+                          {
+                            "id": 23,
+                            "title": "Analog",
+                            "titlePath": "/women-watches-analog-watches/c-1827"
+                          },
+                          {
+                            "id": 25,
+                            "title": "Digital",
+                            "titlePath": "/women-watches-digital-watches/c-1829"
+                          },
+                          {
+                            "id": 226,
+                            "title": "Chronograph",
+                            "titlePath": "/women-watches-chronograph-watches/c-1828"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 9,
+                        "title": "Kids Watches",
+                        "titlePath": "/kids-kids-accessories-watches/c-1310",
+                        "subItems": [
+                          {
+                            "id": 26,
+                            "title": "All Watches",
+                            "titlePath": "/kids-kids-accessories-watches/c-1310"
+                          },
+                          {
+                            "id": 27,
+                            "title": "Girls",
+                            "titlePath": "/kids-kids-accessories-watches/c-1310"
+                          },
+                          {
+                            "id": 28,
+                            "title": "Boys",
+                            "titlePath": "/kids-kids-accessories-watches/c-1310"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": 3,
+                    "title": "Gifts",
+                    "titlePath": null,
+                    "items": [
+                      {
+                        "id": 10,
+                        "title": "Gifts For Her",
+                        "titlePath": "/search/result?q=gifts",
+                        "subItems": [
+                          {
+                            "id": 30,
+                            "title": "Watches",
+                            "titlePath": "/women-watches/c-1488"
+                          },
+                          {
+                            "id": 228,
+                            "title": "Jewellery",
+                            "titlePath": "/women-jewellery-accessories-fashion-jewellery/c-1721"
+                          },
+                          {
+                            "id": 130,
+                            "title": "Makeup",
+                            "titlePath": "/beauty-makeup/c-1046"
+                          },
+                          {
+                            "id": 131,
+                            "title": "Fragrance",
+                            "titlePath": "/beauty-fragrance-women/c-2111"
+                          },
+                          {
+                            "id": 132,
+                            "title": "Cups & Mugs",
+                            "titlePath": "/home-dining-tea-coffee/c-1353?filter=categoryPath4_uFilter%253A%2522Cups%2520%2526%2520Saucer%2520Sets%252CCoffee%2520Mugs%252CTea%2520Mugs%252CTea%2520Sets%2522"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 11,
+                        "title": "Gifts For Him",
+                        "titlePath": null,
+                        "subItems": [
+                          {
+                            "id": 33,
+                            "title": "Watches",
+                            "titlePath": "/men-watches/c-1052"
+                          },
+                          {
+                            "id": 133,
+                            "title": "Sunglasses",
+                            "titlePath": "/men-sunglasses-frames/c-1053"
+                          },
+                          {
+                            "id": 134,
+                            "title": "Fragrance",
+                            "titlePath": "/beauty-fragrance-men/c-2112"
+                          },
+                          {
+                            "id": 135,
+                            "title": "Grooming Kits",
+                            "titlePath": "/beauty-mens-grooming/c-2084"
+                          },
+                          {
+                            "id": 136,
+                            "title": "Cups & Mugs",
+                            "titlePath": "/home-dining-tea-coffee-coffee-mugs/c-1358"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 13,
+                        "title": "House Warming Gift",
+                        "titlePath": "/home-decor/c-1474",
+                        "subItems": [
+                          {
+                            "id": 40,
+                            "title": "See All House Warming Gift",
+                            "titlePath": "/home-decor/c-1474"
+                          },
+                          {
+                            "id": 139,
+                            "title": "Home Decor",
+                            "titlePath": "/home-decor/c-1474"
+                          },
+                          {
+                            "id": 44,
+                            "title": "Bed & Linen",
+                            "titlePath": "/home-bedding/c-1117"
+                          },
+                          {
+                            "id": 50,
+                            "title": "Kitchen & Dining",
+                            "titlePath": "/home-dining/c-1284"
+                          },
+                          {
+                            "id": 47,
+                            "title": "Gifts Under 1999",
+                            "titlePath": "/search/result?q=*&filter=price%253A%2522%255B1500%2520TO%25202000%255D%2522&page=2"
+                          },
+                          {
+                            "id": 48,
+                            "title": "Gifts Under 2999",
+                            "titlePath": "/search/result?q=*&filter=price%253A%2522%255B2500%2520TO%25203000%255D%2522&page=1"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 14,
+                        "title": "Wedding Gifts",
+                        "titlePath": null,
+                        "subItems": [
+                          {
+                            "id": 52,
+                            "title": "See All Wedding Gifts",
+                            "titlePath": null
+                          },
+                          {
+                            "id": 53,
+                            "title": "Watches",
+                            "titlePath": "/search/result?q=watches"
+                          },
+                          {
+                            "id": 54,
+                            "title": "Bedding Sets",
+                            "titlePath": "/home-bedding/c-1117"
+                          },
+                          {
+                            "id": 55,
+                            "title": "Kitchen Appliances",
+                            "titlePath": "/home-home-kitchen-appliances-kitchen-appliances/c-1452"
+                          },
+                          {
+                            "id": 142,
+                            "title": "Kitchen & Dining",
+                            "titlePath": "/home-dining/c-1284"
+                          },
+                          {
+                            "id": 143,
+                            "title": "Home Decor",
+                            "titlePath": "/home-decor/c-1474"
+                          },
+                          {
+                            "id": 144,
+                            "title": "Women's Fashion",
+                            "titlePath": "/category/women"
+                          },
+                          {
+                            "id": 145,
+                            "title": "Men's Fashion",
+                            "titlePath": "/category/men"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 12,
+                        "title": "Instant Gifting",
+                        "titlePath": null,
+                        "subItems": [
+                          {
+                            "id": 36,
+                            "title": "See All Instant Gifting",
+                            "titlePath": "/search/result?q=SHOPPERS%20STOP%20GIFT%20VOUCHERS%20Instant%20Gifting"
+                          },
+                          {
+                            "id": 37,
+                            "title": "Gift Cards",
+                            "titlePath": "/search/result?q=Gift%20card"
+                          },
+                          {
+                            "id": 38,
+                            "title": "E-Gift Vouchers",
+                            "titlePath": "/search/result?q=gift%20vouchers"
+                          },
+                          {
+                            "id": 39,
+                            "title": "Corporate Gifting",
+                            "titlePath": "/corporategifting"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": 8,
+                    "title": "Luxe",
+                    "titlePath": "/luxe",
+                    "items": [
+                      {
+                        "id": 34,
+                        "title": "Watches",
+                        "titlePath": null,
+                        "subItems": [
+                          {
+                            "id": 146,
+                            "title": "Tissot",
+                            "titlePath": "/brand/tissot"
+                          },
+                          {
+                            "id": 147,
+                            "title": "Michael Kors",
+                            "titlePath": "/brand/MICHAEL-KORS"
+                          },
+                          {
+                            "id": 148,
+                            "title": "Nebula",
+                            "titlePath": "/brand/nebula"
+                          },
+                          {
+                            "id": 149,
+                            "title": "Coach",
+                            "titlePath": "/brand/coach?q=%3AcategoryRelevance%3AinStockFlag%3Atrue%3Abrands%3ACOACH%3Al3category%3AAnalog&text=&startRange=&endRange=&brandPageId=&linkText=#"
+                          },
+                          {
+                            "id": 150,
+                            "title": "Emporio Armani",
+                            "titlePath": "/search/result?q=watches&filter=brand_uFilter%253A%2522EMPORIO%2520ARMANI%2522"
+                          },
+                          {
+                            "id": 151,
+                            "title": "GUESS",
+                            "titlePath": "/search/result?q=guess%20watches"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 35,
+                        "title": "Sunglasses",
+                        "titlePath": null,
+                        "subItems": [
+                          {
+                            "id": 152,
+                            "title": "Tom Ford",
+                            "titlePath": "/search/result?q=tom%20ford%20sunglasses"
+                          },
+                          {
+                            "id": 154,
+                            "title": "Rayban",
+                            "titlePath": "/search/result?q=rayban%20sunglasses"
+                          },
+                          {
+                            "id": 155,
+                            "title": "GUESS",
+                            "titlePath": "/search/result?q=guess%20sungalsses"
+                          },
+                          {
+                            "id": 153,
+                            "title": "CARRERA",
+                            "titlePath": "/brand/CARRERA"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 36,
+                        "title": "Handbags",
+                        "titlePath": null,
+                        "subItems": [
+                          {
+                            "id": 156,
+                            "title": "ALDO",
+                            "titlePath": "/brand/ALDO"
+                          },
+                          {
+                            "id": 157,
+                            "title": "STEVE MADDEN",
+                            "titlePath": "/brand/steve%20madden"
+                          },
+                          {
+                            "id": 158,
+                            "title": "GUESS",
+                            "titlePath": "/brand/guess?filter=categoryPath2_uFilter%253A%2522Bags%2520%2526%2520Wallets%2522"
+                          },
+                          {
+                            "id": 159,
+                            "title": "HIDESIGN",
+                            "titlePath": "/search/result?q=hidesign%20bags"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 37,
+                        "title": "Jewellery",
+                        "titlePath": null,
+                        "subItems": [
+                          {
+                            "id": 161,
+                            "title": "Swarovski",
+                            "titlePath": "/brand/Swarovski?q=%3AcategoryRelevance%3AinStockFlag%3Atrue%3Abrands%3ASWAROVSKI%3Al3category%3AFashion%2B%2526%2BSemi%2BPrecious&text=&startRange=&endRange=&brandPageId=&linkText=#"
+                          },
+                          {
+                            "id": 162,
+                            "title": "Michael Kors",
+                            "titlePath": "/brand/michael?filter=categoryPath2_uFilter%253A%2522Jewellery%2522&"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 38,
+                        "title": "Fragrances",
+                        "titlePath": null,
+                        "subItems": [
+                          {
+                            "id": 160,
+                            "title": "Giorgio Armani",
+                            "titlePath": "/brand/ARMANI?filter=categoryPath1_uFilter%253A%2522Beauty%2522"
+                          },
+                          {
+                            "id": 189,
+                            "title": "Versace",
+                            "titlePath": "/brand/versace?q=%3AcategoryRelevance%3AinStockFlag%3Atrue%3Abrands%3AVERSACE%3Al1category%3ABeauty&text=&startRange=&endRange="
+                          },
+                          {
+                            "id": 190,
+                            "title": "Burberry",
+                            "titlePath": "/brand/burberry?q=%3AcategoryRelevance%3AinStockFlag%3Atrue%3Abrands%3ABURBERRY%3Al1category%3ABeauty&text=&startRange=&endRange=#"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 39,
+                        "title": "Skin Care",
+                        "titlePath": "/beauty-skincare/c-B1020?filter=brand_uFilter%253A%2522CLARINS%252CSHISEIDO%252CELIZABETH%2520ARDEN%252CBOBBI%2520BROWN%252CESTEE%2520LAUDER%252CCLINIQUE%252CMAC%2522&",
+                        "subItems": [
+                          {
+                            "id": 191,
+                            "title": "Shiseido",
+                            "titlePath": "/brand/Shiseido"
+                          },
+                          {
+                            "id": 192,
+                            "title": "Clarins",
+                            "titlePath": "/beauty-skincare/c-B1020?q=%3AtopRated%3AinStockFlag%3Atrue%3Abrands%3ACLARINS&text=&startRange=&endRange=#"
+                          },
+                          {
+                            "id": 193,
+                            "title": "Elizabeth Arden",
+                            "titlePath": "/brand/elizabeth-arden"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 40,
+                        "title": "Makeup",
+                        "titlePath": "/beauty-make-up/c-B1010?filter=brand_uFilter%253A%2522MAC%252CNARS%252CCLINIQUE%252CSMASHBOX%252CBOBBI%2520BROWN%252CESTEE%2520LAUDER%2522",
+                        "subItems": [
+                          {
+                            "id": 194,
+                            "title": "Estee Lauder",
+                            "titlePath": "/brand/estee-lauder"
+                          },
+                          {
+                            "id": 195,
+                            "title": "Bobbi Brown",
+                            "titlePath": "/brand/bobbi-brown"
+                          },
+                          {
+                            "id": 196,
+                            "title": "M.A.C",
+                            "titlePath": "/brand/mac"
+                          },
+                          {
+                            "id": 197,
+                            "title": "Smashbox",
+                            "titlePath": "/brand/smashbox"
+                          },
+                          {
+                            "id": 198,
+                            "title": "NARS",
+                            "titlePath": "/brand/nars"
+                          },
+                          {
+                            "id": 199,
+                            "title": "Clinique",
+                            "titlePath": "/brand/clinique"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "PopularCategories": {
+                  "id": 12,
+                  "componentName": "Popular Categories",
+                  "backgroundColour": null,
+                  "backgroundSpacing": null,
+                  "visibility": null,
+                  "display": [
+                    "All"
+                  ],
+                  "isComponent": null,
+                  "title": null,
+                  "personalizedId": null,
+                  "items": [
+                    {
+                      "id": 87,
+                      "webImageUrl": "Men",
+                      "mobileImageUrl": "https://storage.googleapis.com/images_cms_prod_sscom/men_cdb925c242/men_cdb925c242.png",
+                      "imageRedirectionUrl": "/plp",
+                      "title": "Men",
+                      "titleColour": null,
+                      "promotion_id": null,
+                      "promotion_name": null,
+                      "creative_name": null,
+                      "creative_slot": null
+                    },
+                    {
+                      "id": 88,
+                      "webImageUrl": "Women",
+                      "mobileImageUrl": "https://storage.googleapis.com/images_cms_prod_sscom/women_02b4a54628/women_02b4a54628.png",
+                      "imageRedirectionUrl": "/plp",
+                      "title": "Women",
+                      "titleColour": null,
+                      "promotion_id": null,
+                      "promotion_name": null,
+                      "creative_name": null,
+                      "creative_slot": null
+                    },
+                    {
+                      "id": 89,
+                      "webImageUrl": "Kids",
+                      "mobileImageUrl": "https://storage.googleapis.com/images_cms_prod_sscom/kids_8f8a45c901/kids_8f8a45c901.png",
+                      "imageRedirectionUrl": "/plp",
+                      "title": "Kids",
+                      "titleColour": null,
+                      "promotion_id": null,
+                      "promotion_name": null,
+                      "creative_name": null,
+                      "creative_slot": null
+                    },
+                    {
+                      "id": 90,
+                      "webImageUrl": "Beauty",
+                      "mobileImageUrl": "https://storage.googleapis.com/images_cms_prod_sscom/beauty_65a137d66b/beauty_65a137d66b.png",
+                      "imageRedirectionUrl": "/plp",
+                      "title": "Beauty",
+                      "titleColour": null,
+                      "promotion_id": null,
+                      "promotion_name": null,
+                      "creative_name": null,
+                      "creative_slot": null
+                    },
+                    {
+                      "id": 91,
+                      "webImageUrl": "Home",
+                      "mobileImageUrl": "https://storage.googleapis.com/images_cms_prod_sscom/home_9d5c922f10/home_9d5c922f10.png",
+                      "imageRedirectionUrl": "/plp",
+                      "title": "Home",
+                      "titleColour": null,
+                      "promotion_id": null,
+                      "promotion_name": null,
+                      "creative_name": null,
+                      "creative_slot": null
+                    },
+                    {
+                      "id": 92,
+                      "webImageUrl": "Gifts",
+                      "mobileImageUrl": "https://storage.googleapis.com/images_cms_prod_sscom/home_9d5c922f10/home_9d5c922f10.png",
+                      "imageRedirectionUrl": "/plp",
+                      "title": "Gifts",
+                      "titleColour": null,
+                      "promotion_id": null,
+                      "promotion_name": null,
+                      "creative_name": null,
+                      "creative_slot": null
+                    },
+                    {
+                      "id": 93,
+                      "webImageUrl": "Luxe",
+                      "mobileImageUrl": "https://storage.googleapis.com/images_cms_prod_sscom/home_9d5c922f10/home_9d5c922f10.png",
+                      "imageRedirectionUrl": "/plp",
+                      "title": "Luxe",
+                      "titleColour": null,
+                      "promotion_id": null,
+                      "promotion_name": null,
+                      "creative_name": null,
+                      "creative_slot": null
+                    },
+                    {
+                      "id": 94,
+                      "webImageUrl": "Bargains",
+                      "mobileImageUrl": "https://storage.googleapis.com/images_cms_prod_sscom/home_9d5c922f10/home_9d5c922f10.png",
+                      "imageRedirectionUrl": "/plp",
+                      "title": "Bargains",
+                      "titleColour": null,
+                      "promotion_id": null,
+                      "promotion_name": null,
+                      "creative_name": null,
+                      "creative_slot": null
+                    }
+                  ]
+                },
+                "popularBrands": {
+                  "id": 5,
+                  "componentName": "Popular Brands",
+                  "title": "Popular Brands",
+                  "backgroundColor": null,
+                  "backgroundSpaciing": null,
+                  "visibility": "all",
+                  "display": [
+                    "All"
+                  ],
+                  "mobileTitle": null,
+                  "items": [
+                    {
+                      "id": 49,
+                      "brandTitle": "Skechers",
+                      "brandTitleColour": null,
+                      "brandPath": "SKECHERS",
+                      "brandId": null
+                    },
+                    {
+                      "id": 50,
+                      "brandTitle": "Yves Saint Laurent",
+                      "brandTitleColour": null,
+                      "brandPath": "Yves-Saint-Laurent",
+                      "brandId": null
+                    },
+                    {
+                      "id": 59,
+                      "brandTitle": "Casio",
+                      "brandTitleColour": null,
+                      "brandPath": "CASIO",
+                      "brandId": null
+                    },
+                    {
+                      "id": 51,
+                      "brandTitle": "Adidas",
+                      "brandTitleColour": null,
+                      "brandPath": "ADIDAS",
+                      "brandId": null
+                    },
+                    {
+                      "id": 60,
+                      "brandTitle": "Tommy Hilfiger",
+                      "brandTitleColour": null,
+                      "brandPath": "TOMMY%20HILFIGER",
+                      "brandId": null
+                    },
+                    {
+                      "id": 53,
+                      "brandTitle": "Guess",
+                      "brandTitleColour": null,
+                      "brandPath": "GUESS",
+                      "brandId": null
+                    },
+                    {
+                      "id": 113,
+                      "brandTitle": "Celio",
+                      "brandTitleColour": null,
+                      "brandPath": "CELIO",
+                      "brandId": null
+                    },
+                    {
+                      "id": 117,
+                      "brandTitle": "Rare Rabbit",
+                      "brandTitleColour": null,
+                      "brandPath": "RARE%20RABBIT",
+                      "brandId": null
+                    },
+                    {
+                      "id": 54,
+                      "brandTitle": "Kashish",
+                      "brandTitleColour": null,
+                      "brandPath": "KASHISH",
+                      "brandId": null
+                    },
+                    {
+                      "id": 56,
+                      "brandTitle": "Titan",
+                      "brandTitleColour": null,
+                      "brandPath": "TITAN",
+                      "brandId": null
+                    },
+                    {
+                      "id": 57,
+                      "brandTitle": "Fratini",
+                      "brandTitleColour": null,
+                      "brandPath": "FRATINI",
+                      "brandId": null
+                    },
+                    {
+                      "id": 58,
+                      "brandTitle": "Fossil",
+                      "brandTitleColour": null,
+                      "brandPath": "FOSSIL",
+                      "brandId": null
+                    },
+                    {
+                      "id": 73,
+                      "brandTitle": "Vero Moda",
+                      "brandTitleColour": null,
+                      "brandPath": "VERO%20MODA",
+                      "brandId": null
+                    },
+                    {
+                      "id": 95,
+                      "brandTitle": "W",
+                      "brandTitleColour": null,
+                      "brandPath": "W",
+                      "brandId": null
+                    },
+                    {
+                      "id": 96,
+                      "brandTitle": "Homestop",
+                      "brandTitleColour": null,
+                      "brandPath": "HOMESTOP",
+                      "brandId": null
+                    },
+                    {
+                      "id": 97,
+                      "brandTitle": "Fashor",
+                      "brandTitleColour": null,
+                      "brandPath": "FASHOR",
+                      "brandId": null
+                    },
+                    {
+                      "id": 98,
+                      "brandTitle": "Levis",
+                      "brandTitleColour": null,
+                      "brandPath": "Levis",
+                      "brandId": null
+                    },
+                    {
+                      "id": 116,
+                      "brandTitle": "Puma",
+                      "brandTitleColour": null,
+                      "brandPath": "PUMA",
+                      "brandId": null
+                    },
+                    {
+                      "id": 107,
+                      "brandTitle": "Rare Ones",
+                      "brandTitleColour": null,
+                      "brandPath": "RARE%20ONES",
+                      "brandId": null
+                    },
+                    {
+                      "id": 108,
+                      "brandTitle": "Vitamins",
+                      "brandTitleColour": null,
+                      "brandPath": "VITAMINS",
+                      "brandId": null
+                    },
+                    {
+                      "id": 114,
+                      "brandTitle": "Tiny Girl",
+                      "brandTitleColour": null,
+                      "brandPath": "TINY%20GIRL",
+                      "brandId": null
+                    },
+                    {
+                      "id": 115,
+                      "brandTitle": "Allen Solly",
+                      "brandTitleColour": null,
+                      "brandPath": "Allen%20Solly",
+                      "brandId": null
+                    }
+                  ]
+                },
+                "webHeaderMenu": {
+                  "id": 3,
+                  "backgroundColour": "#FFFFFF",
+                  "backgroundSpacing": "10px",
+                  "logoIcon": "https://storage.googleapis.com/images_cms_prod_sscom/shoppersstopthree_1eb72c5b77/shoppersstopthree_1eb72c5b77.png",
+                  "searchIcon": "https://storage.googleapis.com/images_cms_prod_sscom/search_9e37f571bb/search_9e37f571bb.png",
+                  "userProfileIcon": "https://storage.googleapis.com/images_cms_prod_sscom/user_4a6bd86ad2/user_4a6bd86ad2.png",
+                  "profileText": "Hello, Zoya",
+                  "storeIcon": "https://storage.googleapis.com/images_cms_uat_sscom/store_6917a13d60/store_6917a13d60.png",
+                  "wishListIcon": "https://storage.googleapis.com/images_cms_uat_sscom/wishlist_3f580f4a42/wishlist_3f580f4a42.png",
+                  "cartIcon": "https://storage.googleapis.com/images_cms_prod_sscom/cart_386d14d3d7/cart_386d14d3d7.png",
+                  "userProfileIconUrl": "/home",
+                  "storeIconUrl": "/account/stores",
+                  "wishlistIconUrl": "/wishlist",
+                  "cartIconUrl": "/cart/bag",
+                  "logoIconUrl": "/home",
+                  "searchPlaceholderText": "What are you looking for?",
+                  "styleListUrl": "https://storage.googleapis.com/images_cms_prod_sscom/fashion_1f40553a5f/fashion_1f40553a5f.gif",
+                  "styleListUrlNavigation": "/fashionstylist"
+                },
+                "webProfileList": {
+                  "id": 3,
+                  "backgroundColour": "#FFFFFF",
+                  "backgroundSpacing": null,
+                  "items": [
+                    {
+                      "id": 17,
+                      "ctaLabel": "My Profile",
+                      "ctaLabelUrl": "/account/profile"
+                    },
+                    {
+                      "id": 18,
+                      "ctaLabel": "My Orders",
+                      "ctaLabelUrl": "/account/orders"
+                    },
+                    {
+                      "id": 19,
+                      "ctaLabel": "My Wallet",
+                      "ctaLabelUrl": "/account/wallet"
+                    },
+                    {
+                      "id": 20,
+                      "ctaLabel": "Gift Card/EGV",
+                      "ctaLabelUrl": "/search/result?q=gift%20vouchers"
+                    },
+                    {
+                      "id": 21,
+                      "ctaLabel": "First Citizen Club",
+                      "ctaLabelUrl": "/account/firstcitizen"
+                    },
+                    {
+                      "id": 22,
+                      "ctaLabel": "Stores And Events",
+                      "ctaLabelUrl": "/account/storesandevents"
+                    },
+                    {
+                      "id": 23,
+                      "ctaLabel": "Book a Personal Shopper",
+                      "ctaLabelUrl": "/account/personalshopper"
+                    },
+                    {
+                      "id": 24,
+                      "ctaLabel": "Logout",
+                      "ctaLabelUrl": "/account/logout"
+                    }
+                  ],
+                  "accessQuickActions": {
+                    "id": 3,
+                    "accessText": "ACCESS QUICK ACTIONS",
+                    "items": [
+                      {
+                        "id": 9,
+                        "ctaLabel": "Past Orders",
+                        "ctaLabelUrl": "/orders",
+                        "iconUrl": null
+                      },
+                      {
+                        "id": 10,
+                        "ctaLabel": "Wishlist",
+                        "ctaLabelUrl": "/wishlist",
+                        "iconUrl": null
+                      },
+                      {
+                        "id": 11,
+                        "ctaLabel": "Gift Card/EGV",
+                        "ctaLabelUrl": "/search/result?q=e%20gift%20vouchers",
+                        "iconUrl": null
+                      },
+                      {
+                        "id": 12,
+                        "ctaLabel": "My Addresses",
+                        "ctaLabelUrl": "/home",
+                        "iconUrl": null
+                      }
+                    ]
+                  }
+                },
+                "webCategories": {
+                  "id": 3,
+                  "visibility": "web",
+                  "display": [
+                    "Web"
+                  ],
+                  "items": [
+                    {
+                      "id": 15,
+                      "ctaLabel": "MEN ",
+                      "ctaLabelUrl": "/category/men",
+                      "categoryId": "Men",
+                      "isNewTab": null
+                    },
+                    {
+                      "id": 16,
+                      "ctaLabel": "WOMEN",
+                      "ctaLabelUrl": "/category/women",
+                      "categoryId": "Women",
+                      "isNewTab": null
+                    },
+                    {
+                      "id": 17,
+                      "ctaLabel": "KIDS",
+                      "ctaLabelUrl": "/category/kids",
+                      "categoryId": "Kids",
+                      "isNewTab": null
+                    },
+                    {
+                      "id": 18,
+                      "ctaLabel": "BEAUTY",
+                      "ctaLabelUrl": "/category/beauty",
+                      "categoryId": "Beauty",
+                      "isNewTab": null
+                    },
+                    {
+                      "id": 22,
+                      "ctaLabel": "WATCHES",
+                      "ctaLabelUrl": "/category/watches",
+                      "categoryId": "WATCHES",
+                      "isNewTab": null
+                    },
+                    {
+                      "id": 19,
+                      "ctaLabel": "GIFTS",
+                      "ctaLabelUrl": "/gifts",
+                      "categoryId": "GIFTS",
+                      "isNewTab": null
+                    },
+                    {
+                      "id": 20,
+                      "ctaLabel": "BRANDS",
+                      "ctaLabelUrl": "/home",
+                      "categoryId": "Brands",
+                      "isNewTab": null
+                    },
+                    {
+                      "id": 21,
+                      "ctaLabel": "HOMESTOP",
+                      "ctaLabelUrl": "/category/Homestop",
+                      "categoryId": "Home",
+                      "isNewTab": null
+                    }
+                  ],
+                  "categories": [
+                    {
+                      "id": 7,
+                      "ctaLabel": "<div style=\"text-align: center; font-size: 16px; font-weight: 700; text-transform: uppercase; line-height: 24px; letter-spacing: 0.50px; word-wrap: break-word\">Style Hub</div>",
+                      "ctaLabelUrl": "https://stylehub.shoppersstop.com/",
+                      "categoryId": "Style Hub",
+                      "isNewTab": true
+                    },
+                    {
+                      "id": 8,
+                      "ctaLabel": "<div style=\"text-align: center; color: #DC2626; font-size: 16px; font-weight: 700; text-transform: uppercase; line-height: 24px; letter-spacing: 0.50px; word-wrap: break-word\">Barga%ns</div>",
+                      "ctaLabelUrl": "/bargain",
+                      "categoryId": "Bargain",
+                      "isNewTab": null
+                    },
+                    {
+                      "id": 9,
+                      "ctaLabel": "<div style=\"color: #C48C03; font-size: 24px; font-family: Cormorant; font-weight: 700; text-transform: capitalize; line-height: 24px; letter-spacing: 1.50px; word-wrap: break-word\">LUXE</div>",
+                      "ctaLabelUrl": "/luxe",
+                      "categoryId": "Luxe",
+                      "isNewTab": null
+                    }
+                  ]
+                }
+              },
+              "meta": {},
+              "statusCode": 200
+            },
+            "dataUpdateCount": 1,
+            "dataUpdatedAt": 1759040253235,
+            "error": null,
+            "errorUpdateCount": 0,
+            "errorUpdatedAt": 0,
+            "fetchFailureCount": 0,
+            "fetchFailureReason": null,
+            "fetchMeta": null,
+            "isInvalidated": false,
+            "status": "success",
+            "fetchStatus": "idle"
+          },
+          "queryKey": [
+            "CMS_Header"
+          ],
+          "queryHash": "[\"CMS_Header\"]"
+        }
+      ]
+    },
+    "pdpData": {
+      "data": {
+        "products": {
+          "total_count": 1,
+          "items": [
+            {
+              "name": "Upvibe Synthetic Lace Up Men's Sports Shoes",
+              "id": null,
+              "type_id": "configurable",
+              "is_free_gift_available": 0,
+              "free_items_offers": null,
+              "brand_name": null,
+              "brand_info": "ADIDAS",
+              "categories": [
+                {
+                  "url_key": "",
+                  "level": null,
+                  "name": "Sports Shoes",
+                  "uid": "1252",
+                  "id": "A1072"
+                }
+              ],
+              "additional_images": [
+                {
+                  "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                },
+                {
+                  "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H"
+                },
+                {
+                  "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt2.jpg_2000Wx3000H"
+                },
+                {
+                  "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt3.jpg_2000Wx3000H"
+                },
+                {
+                  "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt4.jpg_2000Wx3000H"
+                }
+              ],
+              "media_gallery": null,
+              "sku": "FMADIU5066",
+              "stock_status": "OUT_OF_STOCK",
+              "variants_status": [
+                {
+                  "sku": "FMADIU5066001",
+                  "status": "OUT_OF_STOCK"
+                },
+                {
+                  "sku": "FMADIU5066002",
+                  "status": "OUT_OF_STOCK"
+                },
+                {
+                  "sku": "FMADIU5066003",
+                  "status": "OUT_OF_STOCK"
+                },
+                {
+                  "sku": "FMADIU5066004",
+                  "status": "OUT_OF_STOCK"
+                },
+                {
+                  "sku": "FMADIU5066005",
+                  "status": "OUT_OF_STOCK"
+                }
+              ],
+              "short_description": null,
+              "AvailablePromotions": [],
+              "review_count": null,
+              "rating_summary": null,
+              "reviews": [],
+              "formulation": null,
+              "pro_type": "Sports Shoes",
+              "is_featured_checkbox": 0,
+              "gift_message_available": null,
+              "is_express_deliverable_checkbox": false,
+              "is_best_seller_checkbox": false,
+              "__typename": "ConfigurableProduct",
+              "image": null,
+              "configurable_options": [
+                {
+                  "id": null,
+                  "attribute_id_v2": 142,
+                  "label": "Size",
+                  "position": 0,
+                  "use_default": false,
+                  "attribute_code": "size",
+                  "values": [
+                    {
+                      "value_index": "FMADIU5066001",
+                      "label": "UK 7",
+                      "swatch_data": {
+                        "value": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H",
+                        "swatch_data_internal": {
+                          "value": ""
+                        }
+                      }
+                    },
+                    {
+                      "value_index": "FMADIU5066002",
+                      "label": "UK 8",
+                      "swatch_data": {
+                        "value": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H",
+                        "swatch_data_internal": {
+                          "value": ""
+                        }
+                      }
+                    },
+                    {
+                      "value_index": "FMADIU5066003",
+                      "label": "UK 9",
+                      "swatch_data": {
+                        "value": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H",
+                        "swatch_data_internal": {
+                          "value": ""
+                        }
+                      }
+                    },
+                    {
+                      "value_index": "FMADIU5066004",
+                      "label": "UK 10",
+                      "swatch_data": {
+                        "value": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H",
+                        "swatch_data_internal": {
+                          "value": ""
+                        }
+                      }
+                    },
+                    {
+                      "value_index": "FMADIU5066005",
+                      "label": "UK 11",
+                      "swatch_data": {
+                        "value": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H",
+                        "swatch_data_internal": {
+                          "value": ""
+                        }
+                      }
+                    }
+                  ],
+                  "product_id": null
+                },
+                {
+                  "id": null,
+                  "attribute_id_v2": 93,
+                  "label": "Color",
+                  "position": 0,
+                  "use_default": false,
+                  "attribute_code": "color",
+                  "values": [
+                    {
+                      "value_index": "FMADIU5066_GREY",
+                      "label": "Grey",
+                      "swatch_data": {
+                        "value": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H",
+                        "swatch_data_internal": {
+                          "value": ""
+                        }
+                      }
+                    }
+                  ],
+                  "product_id": null
+                }
+              ],
+              "variants": [
+                {
+                  "product": {
+                    "id": null,
+                    "color": "FMADIU5066_GREY",
+                    "size": "FMADIU5066001",
+                    "uid": null,
+                    "name": null,
+                    "brand_name": null,
+                    "brand_info": "ADIDAS",
+                    "additional_images": [
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt2.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt3.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt4.jpg_2000Wx3000H"
+                      }
+                    ],
+                    "media_gallery": null,
+                    "sku": "FMADIU5066001",
+                    "stock_status": "OUT_OF_STOCK",
+                    "stock_count": 0,
+                    "review_count": null,
+                    "rating_summary": null,
+                    "reviews": null,
+                    "AvailablePromotions": null,
+                    "pmr_price": 4599,
+                    "pmr_price_value": {
+                      "amount": {
+                        "value": 4599,
+                        "currency": "INR"
+                      },
+                      "discount": {
+                        "amount_off": null,
+                        "percent_off": null
+                      }
+                    },
+                    "price_range": {
+                      "minimum_price": {
+                        "regular_price": {
+                          "value": null,
+                          "currency": "INR"
+                        },
+                        "final_price": {
+                          "value": 4599
+                        },
+                        "discount": {
+                          "amount_off": null,
+                          "percent_off": null
+                        }
+                      }
+                    },
+                    "formulation": null,
+                    "pro_type": null,
+                    "is_featured_checkbox": null,
+                    "gift_message_available": null,
+                    "is_best_seller_checkbox": null,
+                    "__typename": "simple",
+                    "image": {
+                      "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                    },
+                    "attribute_set_id": null,
+                    "weight": null
+                  }
+                },
+                {
+                  "product": {
+                    "id": null,
+                    "color": "FMADIU5066_GREY",
+                    "size": "FMADIU5066001",
+                    "uid": null,
+                    "name": null,
+                    "brand_name": null,
+                    "brand_info": "ADIDAS",
+                    "additional_images": [
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt2.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt3.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt4.jpg_2000Wx3000H"
+                      }
+                    ],
+                    "media_gallery": null,
+                    "sku": "FMADIU5066001",
+                    "stock_status": "OUT_OF_STOCK",
+                    "stock_count": 0,
+                    "review_count": null,
+                    "rating_summary": null,
+                    "reviews": null,
+                    "AvailablePromotions": null,
+                    "pmr_price": 4599,
+                    "pmr_price_value": {
+                      "amount": {
+                        "value": 4599,
+                        "currency": "INR"
+                      },
+                      "discount": {
+                        "amount_off": null,
+                        "percent_off": null
+                      }
+                    },
+                    "price_range": {
+                      "minimum_price": {
+                        "regular_price": {
+                          "value": null,
+                          "currency": "INR"
+                        },
+                        "final_price": {
+                          "value": 4599
+                        },
+                        "discount": {
+                          "amount_off": null,
+                          "percent_off": null
+                        }
+                      }
+                    },
+                    "formulation": null,
+                    "pro_type": null,
+                    "is_featured_checkbox": null,
+                    "gift_message_available": null,
+                    "is_best_seller_checkbox": null,
+                    "__typename": "simple",
+                    "image": {
+                      "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                    },
+                    "attribute_set_id": null,
+                    "weight": null
+                  }
+                },
+                {
+                  "product": {
+                    "id": null,
+                    "color": "FMADIU5066_GREY",
+                    "size": "FMADIU5066002",
+                    "uid": null,
+                    "name": null,
+                    "brand_name": null,
+                    "brand_info": "ADIDAS",
+                    "additional_images": [
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt2.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt3.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt4.jpg_2000Wx3000H"
+                      }
+                    ],
+                    "media_gallery": null,
+                    "sku": "FMADIU5066002",
+                    "stock_status": "OUT_OF_STOCK",
+                    "stock_count": 0,
+                    "review_count": null,
+                    "rating_summary": null,
+                    "reviews": null,
+                    "AvailablePromotions": null,
+                    "pmr_price": 4599,
+                    "pmr_price_value": {
+                      "amount": {
+                        "value": 4599,
+                        "currency": "INR"
+                      },
+                      "discount": {
+                        "amount_off": null,
+                        "percent_off": null
+                      }
+                    },
+                    "price_range": {
+                      "minimum_price": {
+                        "regular_price": {
+                          "value": null,
+                          "currency": "INR"
+                        },
+                        "final_price": {
+                          "value": 4599
+                        },
+                        "discount": {
+                          "amount_off": null,
+                          "percent_off": null
+                        }
+                      }
+                    },
+                    "formulation": null,
+                    "pro_type": null,
+                    "is_featured_checkbox": null,
+                    "gift_message_available": null,
+                    "is_best_seller_checkbox": null,
+                    "__typename": "simple",
+                    "image": {
+                      "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                    },
+                    "attribute_set_id": null,
+                    "weight": null
+                  }
+                },
+                {
+                  "product": {
+                    "id": null,
+                    "color": "FMADIU5066_GREY",
+                    "size": "FMADIU5066003",
+                    "uid": null,
+                    "name": null,
+                    "brand_name": null,
+                    "brand_info": "ADIDAS",
+                    "additional_images": [
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt2.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt3.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt4.jpg_2000Wx3000H"
+                      }
+                    ],
+                    "media_gallery": null,
+                    "sku": "FMADIU5066003",
+                    "stock_status": "OUT_OF_STOCK",
+                    "stock_count": 0,
+                    "review_count": null,
+                    "rating_summary": null,
+                    "reviews": null,
+                    "AvailablePromotions": null,
+                    "pmr_price": 4599,
+                    "pmr_price_value": {
+                      "amount": {
+                        "value": 4599,
+                        "currency": "INR"
+                      },
+                      "discount": {
+                        "amount_off": null,
+                        "percent_off": null
+                      }
+                    },
+                    "price_range": {
+                      "minimum_price": {
+                        "regular_price": {
+                          "value": null,
+                          "currency": "INR"
+                        },
+                        "final_price": {
+                          "value": 4599
+                        },
+                        "discount": {
+                          "amount_off": null,
+                          "percent_off": null
+                        }
+                      }
+                    },
+                    "formulation": null,
+                    "pro_type": null,
+                    "is_featured_checkbox": null,
+                    "gift_message_available": null,
+                    "is_best_seller_checkbox": null,
+                    "__typename": "simple",
+                    "image": {
+                      "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                    },
+                    "attribute_set_id": null,
+                    "weight": null
+                  }
+                },
+                {
+                  "product": {
+                    "id": null,
+                    "color": "FMADIU5066_GREY",
+                    "size": "FMADIU5066004",
+                    "uid": null,
+                    "name": null,
+                    "brand_name": null,
+                    "brand_info": "ADIDAS",
+                    "additional_images": [
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt2.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt3.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt4.jpg_2000Wx3000H"
+                      }
+                    ],
+                    "media_gallery": null,
+                    "sku": "FMADIU5066004",
+                    "stock_status": "OUT_OF_STOCK",
+                    "stock_count": 0,
+                    "review_count": null,
+                    "rating_summary": null,
+                    "reviews": null,
+                    "AvailablePromotions": null,
+                    "pmr_price": 4599,
+                    "pmr_price_value": {
+                      "amount": {
+                        "value": 4599,
+                        "currency": "INR"
+                      },
+                      "discount": {
+                        "amount_off": null,
+                        "percent_off": null
+                      }
+                    },
+                    "price_range": {
+                      "minimum_price": {
+                        "regular_price": {
+                          "value": null,
+                          "currency": "INR"
+                        },
+                        "final_price": {
+                          "value": 4599
+                        },
+                        "discount": {
+                          "amount_off": null,
+                          "percent_off": null
+                        }
+                      }
+                    },
+                    "formulation": null,
+                    "pro_type": null,
+                    "is_featured_checkbox": null,
+                    "gift_message_available": null,
+                    "is_best_seller_checkbox": null,
+                    "__typename": "simple",
+                    "image": {
+                      "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                    },
+                    "attribute_set_id": null,
+                    "weight": null
+                  }
+                },
+                {
+                  "product": {
+                    "id": null,
+                    "color": "FMADIU5066_GREY",
+                    "size": "FMADIU5066005",
+                    "uid": null,
+                    "name": null,
+                    "brand_name": null,
+                    "brand_info": "ADIDAS",
+                    "additional_images": [
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt1.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt2.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt3.jpg_2000Wx3000H"
+                      },
+                      {
+                        "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY_alt4.jpg_2000Wx3000H"
+                      }
+                    ],
+                    "media_gallery": null,
+                    "sku": "FMADIU5066005",
+                    "stock_status": "OUT_OF_STOCK",
+                    "stock_count": 0,
+                    "review_count": null,
+                    "rating_summary": null,
+                    "reviews": null,
+                    "AvailablePromotions": null,
+                    "pmr_price": 4599,
+                    "pmr_price_value": {
+                      "amount": {
+                        "value": 4599,
+                        "currency": "INR"
+                      },
+                      "discount": {
+                        "amount_off": null,
+                        "percent_off": null
+                      }
+                    },
+                    "price_range": {
+                      "minimum_price": {
+                        "regular_price": {
+                          "value": null,
+                          "currency": "INR"
+                        },
+                        "final_price": {
+                          "value": 4599
+                        },
+                        "discount": {
+                          "amount_off": null,
+                          "percent_off": null
+                        }
+                      }
+                    },
+                    "formulation": null,
+                    "pro_type": null,
+                    "is_featured_checkbox": null,
+                    "gift_message_available": null,
+                    "is_best_seller_checkbox": null,
+                    "__typename": "simple",
+                    "image": {
+                      "url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/FMADIU5066/FMADIU5066_GREY/FMADIU5066_GREY.jpg_2000Wx3000H"
+                    },
+                    "attribute_set_id": null,
+                    "weight": null
+                  }
+                }
+              ],
+              "pmr_price": null,
+              "pmr_price_value": {
+                "amount": {
+                  "value": 4599,
+                  "currency": "INR"
+                },
+                "discount": {
+                  "amount_off": null,
+                  "percent_off": null
+                }
+              },
+              "price_range": {
+                "minimum_price": {
+                  "regular_price": {
+                    "value": null,
+                    "currency": "INR"
+                  },
+                  "final_price": {
+                    "value": 4599
+                  },
+                  "discount": {
+                    "amount_off": null,
+                    "percent_off": null
+                  }
+                }
+              },
+              "return_exchange_policy": "10 Days Easy Returns And Exchange",
+              "return_period": "14",
+              "productDetails": {
+                "classifications": [
+                  {
+                    "code": "Material",
+                    "features": [
+                      {
+                        "featureValues": [
+                          {
+                            "value": "Synthetic"
+                          }
+                        ],
+                        "name": "Material"
+                      }
+                    ]
+                  },
+                  {
+                    "code": "Pattern",
+                    "features": [
+                      {
+                        "featureValues": [
+                          {
+                            "value": "Solid"
+                          }
+                        ],
+                        "name": "Pattern"
+                      }
+                    ]
+                  },
+                  {
+                    "code": "Toe Shape",
+                    "features": [
+                      {
+                        "featureValues": [
+                          {
+                            "value": "Round Toe"
+                          }
+                        ],
+                        "name": "Toe Shape"
+                      }
+                    ]
+                  },
+                  {
+                    "code": "Pack Of",
+                    "features": [
+                      {
+                        "featureValues": [
+                          {
+                            "value": "1"
+                          }
+                        ],
+                        "name": "Pack Of"
+                      }
+                    ]
+                  },
+                  {
+                    "code": "Gender",
+                    "features": [
+                      {
+                        "featureValues": [
+                          {
+                            "value": "Men"
+                          }
+                        ],
+                        "name": "Gender"
+                      }
+                    ]
+                  },
+                  {
+                    "code": "Occasion",
+                    "features": [
+                      {
+                        "featureValues": [
+                          {
+                            "value": "Athleisure"
+                          }
+                        ],
+                        "name": "Occasion"
+                      }
+                    ]
+                  },
+                  {
+                    "code": "Sole Material",
+                    "features": [
+                      {
+                        "featureValues": [
+                          {
+                            "value": "EVA"
+                          }
+                        ],
+                        "name": "Sole Material"
+                      }
+                    ]
+                  },
+                  {
+                    "code": "Heel Height",
+                    "features": [
+                      {
+                        "featureValues": [
+                          {
+                            "value": "1.5 Inches"
+                          }
+                        ],
+                        "name": "Heel Height"
+                      }
+                    ]
+                  },
+                  {
+                    "code": "Country of Origin",
+                    "features": [
+                      {
+                        "featureValues": [
+                          {
+                            "value": "India"
+                          }
+                        ],
+                        "name": "Country of Origin"
+                      }
+                    ]
+                  },
+                  {
+                    "code": "Package Contents",
+                    "features": [
+                      {
+                        "featureValues": [
+                          {
+                            "value": "A Pair Of Sports Shoes"
+                          }
+                        ],
+                        "name": "Package Contents"
+                      }
+                    ]
+                  },
+                  {
+                    "code": "Product Type",
+                    "features": [
+                      {
+                        "featureValues": [
+                          {
+                            "value": "Sports Shoes"
+                          }
+                        ],
+                        "name": "Product Type"
+                      }
+                    ]
+                  },
+                  {
+                    "code": "Fastening Type",
+                    "features": [
+                      {
+                        "featureValues": [
+                          {
+                            "value": "Slip-On"
+                          }
+                        ],
+                        "name": "Fastening Type"
+                      }
+                    ]
+                  }
+                ],
+                "aboutBrand": "Adidas is a globally renowned sports and lifestyle brand, designing and manufacturing footwear, apparel, and accessories.",
+                "description": "It is a lifestyle tooling which leaves a classic impression of the wearer. Its raised wall protects the feet while walking & its anti-skid resistance provides a better grip to the ground & helps you to walk firmly",
+                "styleNote": null,
+                "ingredients": null,
+                "how_to_use": null,
+                "importerDetails": null,
+                "careInstructions": null,
+                "manufacturerDetails": "Adidas India Marketing Private Ltd. Office no.6, 2nd Floor, Sector-B, Pocket-7, Plot no-11, Vasant Kunj, New Delhi-110070"
+              },
+              "sizeDetails": {
+                "sizeGuide": null,
+                "sizeChart": [
+                  {
+                    "key": "sizeVariantCode",
+                    "value": [
+                      "FMADIU5066001",
+                      "FMADIU5066002",
+                      "FMADIU5066003",
+                      "FMADIU5066004",
+                      "FMADIU5066005"
+                    ]
+                  },
+                  {
+                    "key": "Size",
+                    "value": [
+                      "UK 7",
+                      "UK 8",
+                      "UK 9",
+                      "UK 10",
+                      "UK 11"
+                    ]
+                  },
+                  {
+                    "key": "Brand Size",
+                    "value": [
+                      "8",
+                      "9",
+                      "10",
+                      "11",
+                      "12"
+                    ]
+                  },
+                  {
+                    "key": "UK Size",
+                    "value": [
+                      "8",
+                      "9",
+                      "10",
+                      "11",
+                      "12"
+                    ]
+                  },
+                  {
+                    "key": "US Size",
+                    "value": [
+                      "8.5",
+                      "9.5",
+                      "10.5",
+                      "11.5",
+                      "12.5"
+                    ]
+                  },
+                  {
+                    "key": "Euro Size",
+                    "value": [
+                      "42.00",
+                      "43.33",
+                      "44.67",
+                      "46.00",
+                      "47.33"
+                    ]
+                  },
+                  {
+                    "key": "To Fit Foot Length (cm)",
+                    "value": [
+                      "26.5",
+                      "27.5",
+                      "28.5",
+                      "29.5",
+                      "30.5"
+                    ]
+                  }
+                ],
+                "howToMeasure": "<div><img src=\"https://s3.ap-south-1.amazonaws.com/images-magento.uat.sscom/Footwear.jpg\" border=\"0\" /></div>"
+              },
+              "bestSeller": false,
+              "newArrival": false,
+              "exclusive": false,
+              "onlineExclusive": false,
+              "selectedSku": "FMADIU5066_GREY",
+              "is_eGift": false,
+              "is_gift_product": false,
+              "is_fcc_product": false,
+              "review_enabled": null,
+              "aplus_html_content": null,
+              "product_id": "436370",
+              "base_product": "FMADIU5066",
+              "importer_details": null,
+              "packer_details": null,
+              "product_color": null,
+              "limited": false
+            }
+          ],
+          "aggregations": null,
+          "page_info": {
+            "current_page": 1,
+            "page_size": 0,
+            "total_pages": 1
+          }
+        }
+      },
+      "statusCode": 200
+    }
+  },
+  "__N_SSP": true
+}

@@ -1,4 +1,4 @@
-from utils import extract_size_map, fetch_data, pre_process_url
+from utils.utils import extract_size_map, fetch_data, pre_process_url
 
 
 def main():
